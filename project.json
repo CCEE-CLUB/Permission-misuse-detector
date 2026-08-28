@@ -5,16 +5,18 @@
       "name": "Harisudhan",
       "github": "harisudhan2025",
       "role": "Developer",
-      "linkldn": "https://www.linkedin.com/in/harisudhan-saravanan-b00b8a32/"
+      "linkedin": "https://www.linkedin.com/in/harisudhan-saravanan-b00b8a32a/"
     }
   ],
   "description": "A cybersecurity tool that analyzes Android APK files, identifies the permissions requested by an application, and provides insights into potentially sensitive or excessive permissions.",
   "tags": [
-    "python",
-    "cybersecurity",
-    "android",
-    "apk-analysis",
-    "permission-analysis"
+    "Python",
+    "Flask",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Android APK Analysis",
+    "JSON"
   ],
   "status": "completed",
   "demo": ""
