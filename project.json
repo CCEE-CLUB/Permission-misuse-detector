@@ -1,0 +1,12 @@
+{
+  "title": "APK Permission Analyzer",
+  "description": "A cybersecurity tool that analyzes Android APK files, identifies the permissions requested by an application, and provides insights into potentially sensitive or excessive permissions.",
+  "authors": [
+    {
+      "name": "Harisudhan",
+      "github": "harisudhan2025",
+      "linkedin": "https://www.linkedin.com/in/harisudhan-saravanan-b00b8a32a/",
+      "role": "Developer"
+    }
+  ]
+}
